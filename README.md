@@ -53,4 +53,8 @@ The Hunger Suppression AI Agent is an AI-powered platform designed to minimize f
 
 ## License
 This project is licensed under the MIT License.
+![Screenshot 2025-03-13 224550](https://github.com/user-attachments/assets/d2367906-dc78-453c-b66e-6b3a4c28907a)
+![Screenshot 2025-03-13 223948](https://github.com/user-attachments/assets/2eb86631-c862-4c16-bab3-db1713d2e904)
+![Screenshot 2025-03-13 201359](https://github.com/user-attachments/assets/d8c16d8b-7a14-4e9d-bf6b-6743d715386c)
 
+![Screenshot 2025-03-13 225210](https://github.com/user-attachments/assets/d458c444-6786-4cb0-a0b5-6abe25543713)
